@@ -2,6 +2,7 @@
   "version": "3.8.0",
   "release_date": "2026-01-12",
   "download_url": "https://github.com/xiaciyidingde/JXYY_CamTools/releases/download/v3.8.0/CamTools_v3.8.7z",
-  "changelog": "新增流量图表，修复启动崩溃问题。",
-  "checksum": "sha256:abcdef123456..."
+  "changelog": "完善所有功能，第一个公布版本。",
+  "checksum": "sha256:f72f2be19686d62661d1fcbd3251ebd92439e1f2c1e9cc2b99da7e5f3876439a"
+
 }
