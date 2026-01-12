@@ -18,17 +18,13 @@
 ## 界面展示
 
 ### 主界面
-![主界面1](https://github.com/xiaciyidingde/-/blob/main/img/%E4%B8%BB%E7%95%8C%E9%9D%A22.png)
-![主界面2](https://github.com/xiaciyidingde/-/blob/main/img/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
+![主界面](https://github.com/xiaciyidingde/JXYY_CamTools/blob/main/img/1.png)
 
-### 关于界面
-![关于界面](https://github.com/xiaciyidingde/-/blob/main/img/%E5%85%B3%E4%BA%8E%E7%95%8C%E9%9D%A2.png)
+### 其他界面
+![其他界面](https://github.com/xiaciyidingde/JXYY_CamTools/blob/main/img/2.png)
 
-### 工具界面
-![工具界面](https://github.com/xiaciyidingde/-/blob/main/img/%E5%B7%A5%E5%85%B7%E7%95%8C%E9%9D%A2.png)
+![其他界面](https://github.com/xiaciyidingde/JXYY_CamTools/blob/main/img/%E5%85%B3%E4%BA%8E%E7%95%8C%E9%9D%A2.png)
 
-### 设置界面
-![设置界面](https://github.com/xiaciyidingde/-/blob/main/img/%E8%AE%BE%E7%BD%AE%E7%95%8C%E9%9D%A2.png)
 
 ## 关于开源说明
 
