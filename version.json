@@ -1,10 +1,10 @@
 {
   "version": "3.9.0",
-  "release_date": "2026-01-12",
-  "download_url": "https://github.com/xiaciyidingde/JXYY_CamTools/releases/download/v3.8.0/CamTools_v3.8.0.exe",
-  "changelog": "完善所有功能，第一个公布版本。",
-  "checksum": "sha256:96fc61bd3e43f48c73a331c4dc67457f144cce6767834a622236ffc9808518ed"
-
+  "release_date": "2026-01-13",
+  "download_url": "https://github.com/xiaciyidingde/JXYY_CamTools/releases/download/v3.9.0/CamTools_v3.9.0.exe",
+  "changelog": "添加更新功能并优化。",
+  "checksum": "sha256:7b7fb63cd4dd661174a71b10101af297b5f4b6f7c610902013c60c4f6d48e9e5"
 }
+
 
 
